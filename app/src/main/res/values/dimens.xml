@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="altura_date_picker">140dp</dimen>
+    <dimen name="separa_boton">40dp</dimen>
+    <dimen name="letra_titulo2">20dp</dimen>
+    <dimen name="letra_nombre2">18dp</dimen>
+    <dimen name="ly_vertical_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ejemplo Actividades</string>
+    <string name="contenido_nombre">Nombre Completo</string>
+    <string name="contenido_fecha">01/01/1900</string>
+    <string name="contenido_telefono">Numero Telefonico</string>
+    <string name="contenido_email">Direccion Correo electronico</string>
+    <string name="contenido_descripcion">Descripcion del contacto</string>
+    <string name="contenido_boton1">Siguiente</string>
+    <string name="ayuda_nombre">Ingrese nombre completo</string>
+    <string name="ayuda_fecha">Ingrese fecha nacimiento</string>
+    <string name="ayuda_telefono">Ingrese numero telefonico</string>
+    <string name="ayuda_correo">Ingrese direccion de correo electronico</string>
+    <string name="ayuda_descripcion">Ingrese descripcion del contacto</string>
+    <string name="titulo_actividad2">Confirmar Datos</string>
+    <string name="titulo_actividad2_telefono">Tel.</string>
+    <string name="titulo_actividad2_fecha">Fecha Nacimiento:</string>
+    <string name="titulo_actividad2_email">Email:</string>
+    <string name="titulo_actividad2_descripcion">Descripcion:</string>
+    <string name="contenido_boton2">Editar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pcorreo">correo</string>
+    <string name="pdescripcion">descripcion</string>
+</resources>
